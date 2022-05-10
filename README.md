@@ -6,6 +6,8 @@ News App Task for the company named Appcent. This project contains APIKey genera
 
 
 It contains categories.
+
+
 ![Simulator Screen Shot - iPhone 11 - 2022-05-09 at 04 16 56](https://user-images.githubusercontent.com/62032918/167673938-078862ab-637f-4f73-ad6c-62dbdf2ed0ed.png)
 
 
